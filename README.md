@@ -1,5 +1,4 @@
 # COS 26
-
 * [Adler Matthias](https://cosdpp.github.io/cos26-cards/adler-matthias/)
 * [Awais Muhammad](https://cosdpp.github.io/cos26-cards/awais-muhammad/)
 * [Bomshteyn Yuliya](https://cosdpp.github.io/cos26-cards/bomshteyn-yuliya/)
@@ -32,3 +31,4 @@
 * [Tereshina Mariia](https://cosdpp.github.io/cos26-cards/tereshina-mariia/)
 * [Zelzer Marion](https://cosdpp.github.io/cos26-cards/zelzer-marion/)
 * [Zindul Danil](https://cosdpp.github.io/cos26-cards/zindul-danil/)
+* [Matuzovic Manuel](https://cosdpp.github.io/cos26-cards/matuzovic-manuel/)
