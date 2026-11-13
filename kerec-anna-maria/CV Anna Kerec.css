@@ -1,0 +1,24 @@
+h2 {
+color: #92c5fc;
+}
+
+h1 {
+color: #92c5fc;
+}
+
+body {
+font-family: Helvetica;
+background-color: lemonchiffon;
+
+line-height: 1.5;
+width: 75%;
+margin:auto;
+}
+
+a:visited {
+    color: hotpink;
+}
+
+a: link {
+color: hotpink
+}
