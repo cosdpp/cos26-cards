@@ -1,0 +1,17 @@
+h2{
+    color:Lightpink;
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color:aliceblue;
+    line-height: 1,5;
+    width: 75%;
+    margin:auto
+
+}
+h1{
+    Color: #79305a
+}
+a:link{ color:mediumpurple}
+a:visited{ color:rebeccapurple}
+a:hover{text-decoration: none}
