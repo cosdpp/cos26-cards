@@ -1,0 +1,34 @@
+h2
+{
+    color:darkgreen;
+}
+
+h1
+{
+    color: darkblue;
+}
+body
+{
+    background-image: url('wp5121892.jpg');
+    background-size: cover;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    line-height: 1.5;
+    width: 75%;
+    margin-inline: auto;
+}
+
+img
+{
+    border-color:beige;
+}
+
+a:link
+{
+    color:darksalmon;
+}
+
+a:visited
+{
+   color:blueviolet;
+}
+
