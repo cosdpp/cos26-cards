@@ -8,3 +8,10 @@ body{
     background-color:#FFE9EF;
     color:black
 }
+
+.menu {
+    display:flex;
+    justify-content: center;
+    gap: 30px;
+    padding: top 40px;
+}
